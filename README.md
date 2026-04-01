@@ -1,3 +1,6 @@
+<img width="890" height="494" alt="Screenshot 2026-04-01 203558" src="https://github.com/user-attachments/assets/6870cff0-4b42-486a-b118-d8bdf00ee40d" />
+
+
 # Adidas Sales Performance Dashboard
 Project Overview
 This interactive Power BI dashboard provides a comprehensive analysis of Adidas Sales Data, focusing on key performance indicators (KPIs) like total revenue, profitability, and unit sales across different regions and product categories. The goal is to identify high-performing products and regional trends to support data-driven business decisions.
